@@ -48,7 +48,7 @@ The directory and file structure are as follows:
 If you find this code useful, please cite our paper. Fork and Star to stay updated with future releases.
 
 ```bibtex
-
+Awaiting publication
 ```
 
 ## 🙏 Acknowledgments  
